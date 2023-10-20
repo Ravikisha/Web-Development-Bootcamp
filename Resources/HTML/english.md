@@ -20,7 +20,7 @@
 - [HTML Basic](https://www.w3schools.com/html/html_basic.asp)
 
 #### Videos
-- [HTML Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=UB1O30fR-EE)
+- [HTML Crash Course For Absolute Beginners - FreeCodeCamp](https://www.youtube.com/watch?v=UB1O30fR-EE)
 
 ---
 
@@ -30,4 +30,4 @@
 - [HTML Attributes](https://www.w3schools.com/html/html_attributes.asp)
 
 #### Videos
-- [5+ Must Know HTML Tags That Almost Nobody Knows](https://youtu.be/iX_QyjdctsQ?si=Fw9AcC6te2Jvenli)
+- [5+ Must Know HTML Tags That Almost Nobody Knows - Web Dev Simplified](https://youtu.be/iX_QyjdctsQ?si=Fw9AcC6te2Jvenli)
