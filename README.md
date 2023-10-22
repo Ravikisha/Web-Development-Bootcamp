@@ -27,13 +27,14 @@ We welcome contributions from the web development community to help make this re
 
 ## Resource Categories
 
-- [HTML](html/README.md)
-- [CSS](css/README.md)
-- [JavaScript](javascript/README.md)
-- [Front-end Frameworks](front-end-frameworks/README.md)
-- [Back-end Development](back-end-development/README.md)
-- [Databases](databases/README.md)
-- [Security](security/README.md)
+- [HTML](./Resources/HTML/English.md)
+- [CSS](./Resources/CSS/English.md)
+- [JavaScript](./Resources/JavaScript/English.md)
+- [FrontEnd Frameworks](./Resources/FrontEndFrameworks/English.md)
+  - [React JS](./Resources/React/English.md)
+- [BackEnd Development](./Resources/BackEndDevelopment/English.md)
+- [Databases](./Resources/Databases/English.md)
+- [Security](./Resources/Security/English.md)
 
 ## Community Guidelines
 
