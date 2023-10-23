@@ -13,7 +13,7 @@ We welcome contributions from the web development community to help make this re
 2. **Add or Update Resources**:
    - Navigate to the relevant category or create a new one if needed.
    - Edit the `README.md` file within the category to add or update resources.
-   - Follow the contribution guidelines outlined in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+   - Follow the contribution guidelines outlined in the [CONTRIBUTE.md](CONTRIBUTE.md) file.
 
 3. **Create a Pull Request**:
    - Submit a pull request to the main repository, explaining the changes you've made.
