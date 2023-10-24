@@ -10,7 +10,7 @@ To ensure a positive and inclusive environment, we have established the followin
 
 1. **Be Respectful:** Treat all community members with respect, kindness, and empathy. Be considerate of their perspectives and experiences.
 
-2. **Inclusivity:** We welcome contributions from all, and we do not tolerate discrimination, derogatory language, or any form of exclusion based on gender, race, religion, sexual orientation, disability, or any other personal characteristic.
+2. **Inclusivity:** We welcome contributions from all, and we do not tolerate discrimination, derogatory language, or any form of exclusion based on gender, race, religion, sexual orientation, disability, or any other personal characteristics.
 
 3. **Constructive Communication:** We encourage open and constructive discussions. Critique ideas, not individuals, and provide constructive feedback.
 
