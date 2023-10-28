@@ -2,7 +2,7 @@
 ## Table of Contents
 
 ## Types:
-- [Introduction](#algorithm-introduction)
+- [Introduction](#introduction)
 - [Naive Implementations](#naive-implementations)
 - [Searching Algorithms](#searching-algorithms)
 - [Sorting Algorithms](#sorting-algorithms)
