@@ -1,3 +1,21 @@
+<<<<<<< HEAD
+# MongoDB 
+---
+
+## Table of Contents
+- [MongoDB](#mongodb)
+  - [Table of Contents](#table-of-contents)
+  - [MongoDB](#mongodb-1)
+      - [Videos](#videos)
+- [MongoDB](#mongodb-2)
+  - [Table of Contents](#table-of-contents-1)
+  - [MongoDB](#mongodb-3)
+      - [Videos](#videos-1)
+      - [Articles](#articles)
+
+## MongoDB
+#### Videos
+=======
 # MongoDB
 
 ---
@@ -8,12 +26,17 @@
   - [Table of Contents](#table-of-contents)
   - [MongoDB](#mongodb-1)
       - [Videos](#videos)
+- [MongoDB](#mongodb-2)
+  - [Table of Contents](#table-of-contents-1)
+  - [MongoDB](#mongodb-3)
+      - [Videos](#videos-1)
       - [Articles](#articles)
 
 ## MongoDB
 
 #### Videos
 
+>>>>>>> upstream/main
 - [MongoDB Complete Course Tutorial in Hindi🔥Free Notes + Projects - Thapa Technical](https://www.youtube.com/watch?v=rU9ZODw5yvU)
 - [MongoDB Full Course 2023 | MongoDB Tutorial | MongoDB | MongoDB For Beginners | Simplilearn](https://www.youtube.com/watch?v=8eJJe4Slnik)
 - [MongoDB Crash Course 2023 - NeetCodeIO](https://www.youtube.com/watch?v=QPFlGswpyJY)
