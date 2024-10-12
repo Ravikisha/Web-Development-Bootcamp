@@ -1,0 +1,1 @@
+(Add info about some design patterns)
