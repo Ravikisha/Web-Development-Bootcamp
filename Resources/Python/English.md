@@ -5,10 +5,10 @@
 ## Table of Contents
 
 - [Python](#python)
-  - [Table of Contents](#table-of-contents)
-  - [Python](#python-1)
-    - [Videos](#videos)
-    - [Articles](#articles)
+  - [Table of Contents](#table-of-contents-1)
+  - [Python](#python-2)
+      - [Videos](#videos-1)
+      - [Articles](#articles)
 
 ## Python
 

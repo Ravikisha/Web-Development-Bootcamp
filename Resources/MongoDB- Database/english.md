@@ -8,6 +8,10 @@
   - [Table of Contents](#table-of-contents)
   - [MongoDB](#mongodb-1)
       - [Videos](#videos)
+- [MongoDB](#mongodb-2)
+  - [Table of Contents](#table-of-contents-1)
+  - [MongoDB](#mongodb-3)
+      - [Videos](#videos-1)
       - [Articles](#articles)
 
 ## MongoDB
