@@ -37,10 +37,19 @@ app.post('/users', async (req, res) => {
     }
 });
 
-// GET method to retrieve all users
-app.get('/users', async (req, res) => {
+// Middleware to require authentication for sensitive routes
+function requireAuth(req, res, next) {
+    const token = req.headers['authorization'];
+    if (!token || token !== `Bearer ${process.env.API_SECRET}`) {
+        return res.status(401).json({ error: 'Unauthorized' });
+    }
+    next();
+}
+
+// GET method to retrieve all users (protected, excludes password field)
+app.get('/users', requireAuth, async (req, res) => {
     try {
-        const users = await User.find(); // Fetch all users from the database
+        const users = await User.find().select('-password'); // Fetch all users, excluding passwords
         res.status(200).json(users);
     } catch (err) {
         res.status(500).json({ error: 'Failed to fetch users' });
