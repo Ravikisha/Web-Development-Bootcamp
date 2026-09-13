@@ -18,6 +18,10 @@
 - [JavaScript Programming - Full Course](https://www.youtube.com/watch?v=jS4aFq5-91M)
 - [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 
+#### Books
+
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) - A free and open-source TypeScript book.
+
 #### Articles
 
 - [JavaScript - Full Course - w3schools ](https://www.w3schools.com/js/)
