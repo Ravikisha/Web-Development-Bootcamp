@@ -24,6 +24,7 @@
 
 #### Articles
 
+- [Preserve Large Numbers and Identifiers in JSON](https://bestjson.com/learn/json-large-numbers) - Explains JavaScript Number precision loss, token-preserving formatting, and string identifiers.
 - [JavaScript - Full Course - w3schools ](https://www.w3schools.com/js/)
 - [JavaScript - Full Course - TutorialsPoint](https://www.tutorialspoint.com/javascript/index.htm)
 - [JavaScript - Full Course - JavaTpoint](https://www.javatpoint.com/javascript-tutorial)
